@@ -1,4 +1,6 @@
-# 🧾 Money Tracker: AI-Powered Personal Finance Tracker
+# 🧾 Groshyki
+
+## Money Tracker: AI-Powered Personal Finance Tracker
 
 > An intelligent desktop application for personal budget management that eliminates manual data entry using OCR and predicts future expenses using mathematical models.
 
